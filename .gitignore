@@ -1,0 +1,9 @@
+.idea/
+_log/
+.idea
+.vscode
+.DS_Store
+*.log
+data/
+go.sum
+/bin
